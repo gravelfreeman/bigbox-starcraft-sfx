@@ -1,4 +1,4 @@
-# BigBox-Starcraft-Sound-Pack
+# Starcraft SFX Pack for BigBox
 
 Copy all "Starcraft Set by Emulga" folders to LaunchBox\Sounds folder.
 
